@@ -7,6 +7,7 @@
 - Helpful concepts:
   - [PurpleMath - Inverse Functions: Definition of "Inverse"](http://www.purplemath.com/modules/invrsfcn.htm)
   - [Shmoop - Unit Circle](http://www.shmoop.com/unit-circle/)
+- [Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/watch?v=CMWFmjlB8v0&list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
 
 ## Intro to Calculus
 - [Better Explained - A Gentle Introduction To Learning Calculus](http://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/)
