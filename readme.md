@@ -9,11 +9,15 @@
   - [Shmoop - Unit Circle](http://www.shmoop.com/unit-circle/)
 - [Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/watch?v=CMWFmjlB8v0&list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
 
+
 ## Intro to Calculus
 - [Better Explained - A Gentle Introduction To Learning Calculus](http://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/)
 - [S.O.S. Math - Calculus](http://www.sosmath.com/calculus/calculus.html)
 - [Math Is Fun - Calculus](http://www.mathsisfun.com/calculus/)
 - [Understanding Calculus](http://understandingcalculus.com/)
+- [Intuitive Calculus](http://www.intuitive-calculus.com/)
+- [Khan Academy - Differential calculus](https://www.khanacademy.org/math/differential-calculus)
+- [Khan Academy - Integral calculus](https://www.khanacademy.org/math/integral-calculus)
 
 ## AP Calculus AB/BC
 - [Paul's Online Math Notes - Calculus I](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) ([Calculus II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx))
@@ -24,7 +28,7 @@
   - [Official 1998 AP Calculus AB Exam](http://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1998.pdf)
   - [AP Calculus - Final Review Sheet](https://web.archive.org/web/20140410122537/http://www.northcanton.sparcc.org/~hck/data/jjk1nc/files/APperc20Calcperc20Reviewperc20Answerperc20Key_JRahn.pdf)
   - [Calculus Cheat Sheet](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
-  - [AP Calculus - Stuff you MUST know Cold](http://cchsindy.org/bird/Smart/Calc1/StuffMUSTknowColdColor.pdf?url=bird/Smart/Calc1/StuffMUSTknowColdColor.pdf)
+  - [AP Calculus - Stuff you MUST know Cold](http://cchsindy.org/bird/Smart/Calc1/StuffMUSTknowColdColor.pdf)
   - [The AP Calculus Exam - How, not only to Survive, but to Prevail](http://www.linmcmullin.net/PDF_Files/How_to_Survive.pdf)
   - [AP Exam Prep Ideas](http://wowmath.org/Notes/AP%20Calculus/AP%20Exam/AP%20Exam%20Prep%20Ideas%202011.pdf)
   - [AP Calculus Question Type Analysis and Notes ](http://www.linmcmullin.net/AP_Calculus_Question_Type_rev_for_2012_exam_a.pdf)
@@ -37,6 +41,7 @@
 - Online courses:
   - [OCW Scholar - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
   - [University of Pennsylvania - Calculus: Single Variable](https://www.coursera.org/course/calcsing)
+- [PennCalc Wiki - Single Variable](http://calculus.seas.upenn.edu/)
 
 ## Differential Calculus
 - Online books:
@@ -45,6 +50,7 @@
 
 ## Multivariable Calculus
 - [Paul's Online Math Notes - Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
+- [Khan Academy - Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 - Online books:
   - [Calculus - Early Transcendentals](http://www.whitman.edu/mathematics/multivariable/multivariable.pdf)
 - Online courses:
