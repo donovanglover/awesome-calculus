@@ -8,6 +8,7 @@
   - [PurpleMath - Inverse Functions: Definition of "Inverse"](http://www.purplemath.com/modules/invrsfcn.htm)
   - [Shmoop - Unit Circle](http://www.shmoop.com/unit-circle/)
 - [Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/watch?v=CMWFmjlB8v0&list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
+- [mathbff](http://mathbff.com/) ([YouTube](https://www.youtube.com/user/mathbff))
 
 
 ## Intro to Calculus
@@ -19,7 +20,8 @@
 - [Khan Academy - Differential calculus](https://www.khanacademy.org/math/differential-calculus)
 - [Khan Academy - Integral calculus](https://www.khanacademy.org/math/integral-calculus)
 
-## AP Calculus AB/BC
+## AP* Calculus AB/BC
+- [AP Calculus Curriculum Framework (2016-2017)](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-calculus-curriculum-framework.pdf)
 - [Paul's Online Math Notes - Calculus I](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) ([Calculus II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx))
 - Online courses:
   - [The Ohio State University - Calculus One](https://www.coursera.org/learn/calculus1)
@@ -38,6 +40,8 @@
   - [Learnerator - AP Calculus AB/BC](https://www.learnerator.com/ap-calculus-ab-bc)
 
 ## Single Variable Calculus
+- [Calculus Essentials by Krista King](http://www.kristakingmath.com/ebook)
+- [IntegralCALC](https://www.integralcalc.com/) ([YouTube](https://www.youtube.com/user/TheIntegralCALC))
 - Online courses:
   - [OCW Scholar - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
   - [University of Pennsylvania - Calculus: Single Variable](https://www.coursera.org/course/calcsing)
@@ -62,3 +66,5 @@
 
 ## Recreational Calculus
 - [Funny Little Calculus Text by Robert Ghrist](http://www.math.washington.edu/~morrow/334_13/FLCT.pdf)
+
+\* AP&reg; is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this list.
