@@ -20,7 +20,7 @@
 - [Khan Academy - Differential calculus](https://www.khanacademy.org/math/differential-calculus)
 - [Khan Academy - Integral calculus](https://www.khanacademy.org/math/integral-calculus)
 
-## AP* Calculus AB/BC
+## AP\* Calculus AB/BC
 - [AP Calculus Curriculum Framework (2016-2017)](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-calculus-curriculum-framework.pdf)
 - [Paul's Online Math Notes - Calculus I](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) ([Calculus II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx))
 - Online courses:
@@ -66,5 +66,6 @@
 
 ## Recreational Calculus
 - [Funny Little Calculus Text by Robert Ghrist](http://www.math.washington.edu/~morrow/334_13/FLCT.pdf)
+- [Visual Calculus](http://archives.math.utk.edu/visual.calculus/index.html)
 
 \* AP&reg; is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this list.
