@@ -1,7 +1,21 @@
-# Awesome Calculus
-> A curated list of awesome resources that I use to study Calculus.
+# Awesome Calculus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome resources I used to study Calculus.
+
+## Contents
+
+- [Before Calculus](#before-calculus)
+- [Intro to Calculus](#intro-to-calculus)
+- [AP Calculus AB/BC](#ap-calculus-abbc)
+- [Single Variable Calculus](#single-variable-calculus)
+- [Differential Calculus](#differential-calculus)
+- [Multivariable Calculus](#multivariable-calculus)
+- [(Almost) Everything Else About Calculus](#almost-everything-else-about-calculus)
+- [Recreational Calculus](#recreational-calculus)
+
 
 ## Before Calculus
+
 - [The Math Page - Pre-Calculus](http://www.themathpage.com/aPreCalc/precalculus.htm)
 - [The Math Page - Trigonometry](http://www.themathpage.com/aTrig/trigonometry.htm)
 - Helpful concepts:
@@ -12,6 +26,7 @@
 
 
 ## Intro to Calculus
+
 - [Better Explained - A Gentle Introduction To Learning Calculus](http://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/)
 - [S.O.S. Math - Calculus](http://www.sosmath.com/calculus/calculus.html)
 - [Math Is Fun - Calculus](http://www.mathsisfun.com/calculus/)
@@ -20,7 +35,9 @@
 - [Khan Academy - Differential calculus](https://www.khanacademy.org/math/differential-calculus)
 - [Khan Academy - Integral calculus](https://www.khanacademy.org/math/integral-calculus)
 
-## AP\* Calculus AB/BC
+
+## AP Calculus AB/BC
+
 - [AP Calculus Curriculum Framework (2016-2017)](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-calculus-curriculum-framework.pdf)
 - [Paul's Online Math Notes - Calculus I](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) ([Calculus II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx))
 - Online courses:
@@ -39,7 +56,9 @@
   - [McGraw Hill AP Test Prep - Calculus AB](http://www.mhpracticeplusap.com/ID16.html) ([Calculus BC](http://www.mhpracticeplusap.com/ID17.html))
   - [Learnerator - AP Calculus AB/BC](https://www.learnerator.com/ap-calculus-ab-bc)
 
+
 ## Single Variable Calculus
+
 - [Calculus Essentials by Krista King](http://www.kristakingmath.com/ebook)
 - [IntegralCALC](https://www.integralcalc.com/) ([YouTube](https://www.youtube.com/user/TheIntegralCALC))
 - Online courses:
@@ -47,12 +66,16 @@
   - [University of Pennsylvania - Calculus: Single Variable](https://www.coursera.org/course/calcsing)
 - [PennCalc Wiki - Single Variable](http://calculus.seas.upenn.edu/)
 
+
 ## Differential Calculus
+
 - Online books:
   - [Introduction to Differential Calculus by Christopher Thomas](http://sydney.edu.au/stuserv/documents/maths_learning_centre/differentialcalculus.pdf)
   - [Introduction to Differential Calculus by Dr Daniel Mathews](http://amsi.org.au/ESA_Senior_Years/PDF/IntroDiffCall3b.pdf)
 
+
 ## Multivariable Calculus
+
 - [Paul's Online Math Notes - Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
 - [Khan Academy - Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 - Online books:
@@ -60,12 +83,19 @@
 - Online courses:
   - [OCW Scholar - Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
+
 ## (Almost) Everything Else About Calculus
+
 - [Calculus by Gilbert Stramg](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
 - [Community Calculus](http://communitycalculus.org)
 
+
 ## Recreational Calculus
+
 - [Funny Little Calculus Text by Robert Ghrist](http://www.math.washington.edu/~morrow/334_13/FLCT.pdf)
 - [Visual Calculus](http://archives.math.utk.edu/visual.calculus/index.html)
 
-\* AP&reg; is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this list.
+
+## Contribute
+
+If you want to contribute, please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
